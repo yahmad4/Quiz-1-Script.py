@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+# Author Yasir Ahmad
+
 def inches_to_cm(inches):
     return inches * 2.54
 
